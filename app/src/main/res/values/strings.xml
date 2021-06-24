@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player_one">Player One</string>
+    <string name="zero">0</string>
+    <string name="player_two">Player Two</string>
+    <string name="status_winning">Player one is winning!</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="p1_win">Player one is winning!</string>
+    <string name="p2_win">Player two is winning!</string>
+    <string name="no_winner">No winner!</string>
+</resources>
